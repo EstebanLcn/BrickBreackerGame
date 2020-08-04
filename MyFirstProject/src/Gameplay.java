@@ -17,7 +17,6 @@ public class Gameplay extends JPanel implements KeyListener, ActionListener {
 	private int score = 0;
 	
 	private MapGenerator map;
-
 	
 	private int totalBricks = 21;
 	
